@@ -3,9 +3,9 @@
 
 Name: Atharv Milind Suryavanshi
 
-Age: 16 years
+Age: 17 years
 
-Education: Second-semester Computer Science Engineering (CSE) diploma student under MSBTE's K Scheme
+Education: Second-year Computer Science Engineering (CSE) diploma student under MSBTE's K Scheme
 
 Academic Performance: Scored 97% in 10th SSC board exams
 
