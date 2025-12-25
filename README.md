@@ -9,9 +9,9 @@ Education: Second-year Computer Science Engineering (CSE) diploma student under 
 
 Academic Performance: Scored 97% in 10th SSC board exams
 
-Career Goals: Considering a career as a software architect after completing a B.Tech in AI and ML
+Career Goals: Considering a career as a Data Scientist after completing a B.Tech in AI and ML
 
-Technical Interests: Interested in AI & ML, C programming, HTML & CSS, game development (Unity), and web development
+Technical Interests: Interested in AI & ML, C,C++,Java,Python programming, HTML & CSS, , and web development
 
 Projects:
 
